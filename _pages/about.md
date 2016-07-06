@@ -7,4 +7,4 @@ author_profile: true
 permalink: /about/
 ---
 
-[Résumé](/files/DavidRobinsonResume.pdf)
+[Résumé](/files/Résumé-Matthew-Chamberlin.pdf)
