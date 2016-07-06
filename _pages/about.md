@@ -1,9 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 layout: single
 excerpt: "About Matthew Chamberlin"
-sitemap: false
-permalink: /about.html
+sitemap: true
+author_profile: true
+permalink: /about/
 ---
 
 [Résumé](/files/DavidRobinsonResume.pdf)
