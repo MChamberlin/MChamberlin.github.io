@@ -7,4 +7,4 @@ author_profile: true
 permalink: /about/
 ---
 
-[Résumé](https://github.com/MChamberlin/MChamberlin.github.io/raw/master/files/R%C3%A9sum%C3%A9-Matthew-Chamberlin.pdfdf)
+[Résumé](https://github.com/MChamberlin/MChamberlin.github.io/raw/master/files/R%C3%A9sum%C3%A9-Matthew-Chamberlin.pdf)
